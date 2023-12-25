@@ -128,22 +128,22 @@ footer {
 }
 
 .card .imageDiv {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card .videoDiv {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card .videoDiv video {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     background-size: cover;
     background-repeat: no-repeat;
 }
